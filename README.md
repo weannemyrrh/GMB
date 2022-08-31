@@ -1,5 +1,5 @@
-# Data Set: Group model building in public health and healthcare
-This repository includes data from published studies that applied group model building (GMB) methodologies to public health or health care. The dataset includes information on study settings, purpose, GMB session characteristics, model attributes, dissemination formats, and outcome characteristics. This dataset was established for a systematic review paper funded by the NIH National Institute on Drug Abuse (Grant Number UM1DA049415) and the Centers for Disease Control and Prevention through the NYU-CUNY Prevention Research Center (Grant Number U48DP00639).
+# Systematic Review Data Set: Group model building in public health and healthcare
+This repository includes data from published studies that applied group model building (GMB) methods to inform complex problems in public health or health care. The dataset includes study attributes, including settings purpose, GMB session characteristics, model attributes, dissemination formats, and outcomes/impact. This dataset informed results for a systematic review manuscript. Funding for this review was provided by the NIH National Institute on Drug Abuse (NIDA; Grant Number UM1DA049415) and by the Centers for Disease Control and Prevention (CDC; NYU-CUNY Prevention Research Center; Grant Number U48DP00639).
 
 <b>Systematic review title:</b><i> Application of group model building in implementation research: a systematic review of the public health and healthcare literature</i>
 
